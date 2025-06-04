@@ -23,5 +23,7 @@ Clone this repository and open it in code editor
 
 Open index.html in browser(Chrome is recommended)
 
+There are some html comments which will help you in journey
+
 Make changes in code and learn from it and how it works, What caused the change
 
